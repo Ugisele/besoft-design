@@ -1,4 +1,4 @@
-.watermark{
+/* .watermark{ 
     color:yellow;
     background-color:#ffff(247, 242, 242);
     height:30px;
@@ -9,17 +9,23 @@
     position:fixed;
     bottom:5px;
     right:5px;
-    }
+    }*/
+       
+    
     .banner{
         padding: 150px 0;
-        background-image:linear-gradient(rgb(0,0,0,0.8),rgb(0,0,0,0.8));
+        margin-bottom: 15px;
+        background-image:url("image/Untitled.png");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
+       
     }
     .banner h1{
         color: #fff;
     }
     .banner p{
         color: #fff;
+
     }
+    
