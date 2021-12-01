@@ -10,7 +10,7 @@
     bottom:5px;
     right:5px;
     }*/
-       
+       /* banner */
     
     .banner{
         padding: 150px 0;
@@ -28,14 +28,14 @@
         color: #fff;
 
     }
-    .glass{
+    /* .glass{
         padding: 10px;
         margin-left: 5px;
         margin-right: 3px;
-        height: 20px;
+        height: 20px; 
+        
+    } */
+    /* product */
+    .products {
         
     }
-    /* .glass img{
-
-        height: 20px;
-    } */
